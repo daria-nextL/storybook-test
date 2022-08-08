@@ -7,6 +7,8 @@ export default {
   title: 'Example/Button',
   component: Button,
   // More on argTypes: https://storybook.js.org/docs/react/api/argtypes
+  
+  
   argTypes: {
     backgroundColor: { control: 'color' },
   },
@@ -21,6 +23,13 @@ Primary.args = {
   primary: true,
   label: 'Button',
 };
+
+Primary.parameters = {
+  design: {
+    type: "figma",
+    url: "https://www.figma.com/file/Mq4p3tQDbjcsX4HBjHETd2/Storybook-Connect?node-id=14%3A7",
+  },
+}
 
 export const Secondary = Template.bind({});
 Secondary.args = {
