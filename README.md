@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  Chromatic's Design Systems for Developers tutorial template
+  Chromatic's Design Systems for Developers tutorial template gedg
 </h1>
 
 This template ships with the main React configuration files you'll need to get up and running fast.
