@@ -65,7 +65,8 @@
     "@storybook/testing-library": "^0.0.13",
     "chromatic": "^6.7.3",
     "storybook-addon-designs": "^6.3.1",
-    "storybook-design-token": "^2.6.0"
+    "storybook-design-token": "^2.6.0",
+    "style-dictionary": "^3.7.1"
   },
   "readme": "ERROR: No README data found!",
   "_id": "learnstorybook-design-system-template@0.1.0"

@@ -1,0 +1,14 @@
+{
+    "source": ["token.json"],
+    "platforms": {
+      "css": {
+        "transforms": ["color/css", "name/cti/kebab"],
+        "files": [
+          {
+            "format": "css/variables",
+            "destination": "token.css"
+          }
+        ]
+      }
+    }
+  }
