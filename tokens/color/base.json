@@ -1,27 +1,13 @@
 {
-  "global": {
-    "color": {
-      "blue-400": {
-        "value": "#1ea7fd",
-        "type": "color"
+  "color": {
+    "base": {
+      "gray": {
+        "light" : { "value": "#CCCCCC" },
+        "medium": { "value": "#999999" },
+        "dark"  : { "value": "#111111" }
       },
-      "white": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "purple-400": {
-        "value": "#731EFD",
-        "type": "color"
-      }
-    },
-    "primary": {
-      "button": {
-        "default": {
-          "value": "{color.blue-400}",
-          "type": "color"
-        }
-      }
+      "red": { "value": "#FF0000" },
+      "green": { "value": "#00FF00" }
     }
-  },
-  "$themes": []
+  }
 }
