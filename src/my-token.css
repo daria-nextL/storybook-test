@@ -1,0 +1,10 @@
+@import url("/src/variables.css");
+
+:root { 
+     /**
+  * @tokens Colors
+  * @presenter Color
+  */
+    --color-primary-btn: var(--color-color-blue-400);
+    
+  }
