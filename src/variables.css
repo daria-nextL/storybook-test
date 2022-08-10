@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 10 Aug 2022 03:13:23 GMT
+ * Generated on Wed, 10 Aug 2022 18:55:20 GMT
  */
 
 :root {
@@ -9,11 +9,31 @@
   --color-base-gray-dark: #111111;
   --color-base-red: #FF0000;
   --color-base-green: #00FF00;
-  --color-color-blue-400: #900c67;
+  --color-color-blue-400: #1ea7fd;
   --color-color-white: #ffffff;
+  --color-font-families-inter: Inter;
+  --color-line-heights-0: AUTO;
+  --color-font-weights-inter-0: Bold;
+  --color-font-size-0: 14;
+  --color-letter-spacing-0: 0%;
+  --color-paragraph-spacing-0: 0;
+  --color-font-button: [object Object];
   --color-font-base: #FF0000;
   --color-font-secondary: #00FF00;
   --color-font-tertiary: #CCCCCC;
+  --color-text-case-none: none;
+  --color-text-decoration-none: none;
+  --global-color-blue-400: #1ea7fd;
+  --global-color-white: #ffffff;
+  --global-font-families-inter: Inter;
+  --global-line-heights-0: AUTO;
+  --global-font-weights-inter-0: Bold;
+  --global-font-size-0: 14;
+  --global-letter-spacing-0: 0%;
+  --global-paragraph-spacing-0: 0;
+  --global-font-button: [object Object];
+  --global-text-case-none: none;
+  --global-text-decoration-none: none;
   --size-font-small: 0.75; /* the small size of the font */
   --size-font-medium: 1; /* the medium size of the font */
   --size-font-large: 2; /* the large size of the font */

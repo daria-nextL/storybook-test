@@ -1,5 +1,5 @@
 {
-  "source": ["tokens/**/*.json"],
+"source": ["tokens/**/*.json"],
   "platforms": {
     "css": {
       "transforms": ["color/css", "name/cti/kebab"],
@@ -150,3 +150,4 @@
     }
   }
 }
+  
