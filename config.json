@@ -6,7 +6,7 @@
       "files": [
         {
           "format": "css/variables",
-          "destination": "variables.css"
+          "destination": "src/variables.css"
         }
       ]
     },
